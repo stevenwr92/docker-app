@@ -1,0 +1,115 @@
+{
+    "categories": [
+        {
+            "name": "Health"
+        },
+        {
+            "name": "Sport"
+        },
+        {
+            "name": "Entertainment"
+        },
+        {
+            "name": "Business"
+        },
+        {
+            "name": "Technology"
+        }
+    ],
+    "users": [
+        {
+            "email": "admin@mail.com",
+            "username": "Budi",
+            "password": "qwerty",
+            "role": "admin"
+        }
+    ],
+    "tags": [
+        {
+            "postId": "1",
+            "name": "react"
+        },
+        {
+            "postId": "1",
+            "name": "vue"
+        },
+        {
+            "postId": "1",
+            "name": "js"
+        }
+    ],
+    "posts": [
+        {
+            "title": "Keributan Terbaru Demokrat Vs PDIP Gegara Saling Tuding Status 'Wanita Emas",
+            "slug": "keributan-terbaru-demokrat-vs-pdip-gegara-saling-tuding-status-wanita-emas",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero. Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci. Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci. Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/09/23/hasnaeni-kenapa-disebut-wanita-emas-ternyata-ini-asal-usulnya-1_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "Baru! Begini Rasa Es Krim Cokelat Rp 7 Ribu di Family Mart",
+            "slug": "baru-begini-rasa-es-krim-cokelat-rp-7-ribu-di-family-mart-baca-artikel-detikfood-baru-begini-rasa-es-krim-cokelat-rp-7-ribu-di-family-mart",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/09/25/jack-miller.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "Kritik Teh Berpemanis Berujung Gaduh, Kelebihan Gula Ngefek ke Jantung Lho!",
+            "slug": "kritik-teh-berpemanis-berujung-gaduh-kelebihan-gula-ngefek-ke-jantung-lho-baca-artikel-detikhealth-kritik-teh-berpemanis-berujung-gaduh-kelebihan-gula-ngefek-ke-jantung-lho",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/09/23/hasnaeni-kenapa-disebut-wanita-emas-ternyata-ini-asal-usulnya-1_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "Ayah Lorenzo Sentil Marc Marquez: Mungkin Kena Karma Ganggu Rossi",
+            "slug": "ayah-lorenzo-sentil-marc-marquez-mungkin-kena-karma-ganggu-rossi-baca",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2021/04/07/ilustrasi-prostitusi-psk_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "Klasemen MotoGP 2022: Quartararo Jauhi Bagnaia",
+            "slug": "klasemen-motogp-2022-quartararo-jauhi-bagnaia-baca-artikel-detiksport-klasemen-motogp-2022-quartararo-jauhi-bagnaia",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2021/12/23/kota-kota-di-dunia-yang-batalkan-perayaan-tahun-baru-gegara-omicron-3_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "Beda Nasib Duo Ducati: Miller Juara, Pecco Jatuh di Akhir",
+            "slug": "beda-nasib-duo-ducati-miller-juara-pecco-jatuh-di-akhir",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/07/27/waketum-gerindra-habiburokhman-dok-istimewa_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "PD Klaim SBY-AHY Dilarang Bicara, Gerindra Minta Jangan Bodohi Rakyat",
+            "slug": "pd-klaim-sby-ahy-dilarang-bicara-gerindra-minta-jangan-bodohi-rakyat",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/09/24/momen-lukas-enembe-main-judi-di-ruang-vvip-di-malaysia_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "Terungkap Momen Lukas Enembe Main Judi Kasino di Malaysia-Filipina",
+            "slug": "terungkap-momen-lukas-enembe-main-judi-kasino-di-malaysia-filipina",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/09/19/motogp-aragon-2022-1_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        },
+        {
+            "title": "Aryan Khan Dapat Wejangan Percintaan dari Ibunda: Bebas Pacaran Sesuka Hati!",
+            "slug": "aryan-khan-dapat-wejangan-percintaan-dari-ibunda-bebas-pacaran-sesuka-hati",
+            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+            "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2022/06/23/boba-bisa-tidak-halal-karena-2-bahan-ini-penjelasan-mui_169.jpeg?w=700&q=90",
+            "categoryId": 2,
+            "authorId": 1
+        }
+    ]
+}
